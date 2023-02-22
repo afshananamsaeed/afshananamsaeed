@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afshananamsaeed
 - 👀 I’m interested in exploring the domains of data.
-- 🌱 I’m currently learning all aspects related to Data Science and Analysis- also learning to apply my knowledge to the field of Finance and Banking (FinTech).
-- 💞️ I’m looking to collaborate on any fun Data based project. You can also hit me up if you want to explore the realms of Physics, Nanoscience and Quantum together.
+- 🌱 I’m currently learning all aspects related to Data Science and Analysis.
+- 💞️ I’m looking to collaborate on any fun Data based project.
 - 📫 How to reach me.. lets chat on LinkedIn!
